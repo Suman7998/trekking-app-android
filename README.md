@@ -3,37 +3,22 @@
 A modern Android app that helps users explore trekking routes, waterfalls, and national parks in India. It includes authentication, a home dashboard with an image slider and AI-driven weather alerts, Google Maps with curated markers, safety tips, data viewing backed by Room (SQLite), a Gemini-powered chat assistant, and a static ML insights section.
 
 
-## 📸 Application Screenshots
+## 📸 Application Screenshots  
 
+### 🧠 Core AI + Trekking Main Screens
+| App Start Screen | Registration | AI Alerts | AI Gemini Chatbot | ML BERT Model | Waterfalls List | Trekking List |
+|---|---|---|---|---|---|---|
+| <img src="assets/screenshots/app_start_symbol.png" width="200"/> | <img src="assets/screenshots/registration.png" width="200"/> | <img src="assets/screenshots/ai_alerts.png" width="200"/> | <img src="assets/screenshots/ai_gemini_chatbot.png" width="200"/> | <img src="assets/screenshots/ml_bert_model.png" width="200"/> | <img src="assets/screenshots/waterfalls_list_data.png" width="200"/> | <img src="assets/screenshots/trekking_list_data.png" width="200"/> |
 
-<p>
-  <img src="assets/screenshots/app_start_symbol.png" alt="Start" width="200" style="margin:4px;" />
-  <img src="assets/screenshots/registration.png" alt="Registration" width="200" style="margin:4px;" />
-  <img src="assets/screenshots/ai_alerts.png" alt="AI Alerts" width="200" style="margin:4px;" />
-  <img src="assets/screenshots/ai_gemini_chatbot.png" alt="AI Chat" width="200" style="margin:4px;" />
-  <img src="assets/screenshots/ml_bert_model.png" alt="ML Insights" width="200" style="margin:4px;" />
-  <img src="assets/screenshots/waterfalls_list_data.png" alt="Waterfalls" width="200" style="margin:4px;" />
-  <img src="assets/screenshots/trekking_list_data.png" alt="Trekking List" width="200" style="margin:4px;" />
-</p>
+### 🗺 Core UI, Navigation & Safety Panels
+| Dashboard | Login | Login Page | Location Sharing | AI Notifications | Safety Tips | Maps Locations |
+|---|---|---|---|---|---|---|
+| <img src="assets/screenshots/dashboard.png" width="200"/> | <img src="assets/screenshots/login.png" width="200"/> | <img src="assets/screenshots/login_page.png" width="200"/> | <img src="assets/screenshots/location_sharing.png" width="200"/> | <img src="assets/screenshots/ai_notifications.png" width="200"/> | <img src="assets/screenshots/safety_tips.png" width="200"/> | <img src="assets/screenshots/maps_locations.png" width="200"/> |
 
-
-<p>
-  <img src="assets/screenshots/dashboard.png" alt="Dashboard" width="200" style="margin:4px;" />
-  <img src="assets/screenshots/login.png" alt="Login" width="200" style="margin:4px;" />
-  <img src="assets/screenshots/login_page.png" alt="Login Page" width="200" style="margin:4px;" />
-  <img src="assets/screenshots/location_sharing.png" alt="Location Sharing" width="200" style="margin:4px;" />
-  <img src="assets/screenshots/ai_notifications.png" alt="AI Notifications" width="200" style="margin:4px;" />
-  <img src="assets/screenshots/safety_tips.png" alt="Safety Tips" width="200" style="margin:4px;" />
-  <img src="assets/screenshots/maps_locations.png" alt="Maps Locations" width="200" style="margin:4px;" />
-</p>
-
-
-<p>
-  <img src="assets/screenshots/firebase_users.png" alt="Firebase Users" width="200" style="margin:4px;" />
-  <img src="assets/screenshots/firebase_authentication.png" alt="Firebase Authentication" width="200" style="margin:4px;" />
-  <img src="assets/screenshots/firebase_project_details.png" alt="Firebase Project Details" width="200" style="margin:4px;" />
-  <img src="assets/screenshots/firebase_cloud_messaging.png" alt="Firebase Cloud Messaging" width="200" style="margin:4px;" />
-</p>
+### ☁️ Firebase Backend & Cloud Modules
+| Firebase Users | Firebase Authentication | Firebase Project Details | Firebase Cloud Messaging |
+|---|---|---|---|
+| <img src="assets/screenshots/firebase_users.png" width="200"/> | <img src="assets/screenshots/firebase_authentication.png" width="200"/> | <img src="assets/screenshots/firebase_project_details.png" width="200"/> | <img src="assets/screenshots/firebase_cloud_messaging.png" width="200"/> |
 
 
 
@@ -172,5 +157,4 @@ Exact versions are defined in `app/build.gradle`.
 - Real-time location sharing with contacts.
 - Replace static insights with server-driven recommendations.
 
-## License
-Add your license here (e.g., MIT).
+
