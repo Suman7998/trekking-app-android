@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#000000</color>
+    <color name="ic_launcher_background">#018786</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Trekking</string>
+    <string name="btn_ai_chat">AI Chat Bot</string>
+    <string name="btn_data_viewer">Data Viewer</string>
+    <string name="btn_emergency_share">Emergency Share</string>
+    <string name="btn_location_sharing">Location Sharing</string>
+    <string name="btn_map">Map</string>
+    <string name="btn_ml_insights">ML Insights</string>
+    <string name="btn_online_safety">Online Safety</string>
+    <string name="btn_personal_safety">Personal Safety</string>
+    <string name="btn_safety_tips">Safety Tips</string>
+    <string name="btn_share_location">Share Location</string>
+    <string name="btn_travel_safety">Travel Safety</string>
+    <string name="btn_trekking_safety">Trekking Safety</string>
+    <string name="chat_prompt_plan">Tell me about your trekking plan (dates, region, days, difficulty). I\'ll suggest routes.</string>
+    <string name="chat_suggestions_header">Here are 10 trekking suggestions:</string>
+    <string name="chat_welcome">Hello! I\'m your Trekking Assistant.</string>
+    <string name="emergency_disaster">Disaster Management: 1078</string>
+    <string name="emergency_fire">Fire: 101</string>
+    <string name="emergency_medical">Medical Emergency: 108</string>
+    <string name="emergency_police">Police: 100</string>
+    <string name="gcm_defaultSenderId" translatable="false">47795934391</string>
+    <string name="google_api_key" translatable="false">AIzaSyDwVo9UJ3Anc9YmY4aZLPTjQAtx4rI37bs</string>
+    <string name="google_app_id" translatable="false">1:47795934391:android:fd01401a361ff10fa0e932</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDwVo9UJ3Anc9YmY4aZLPTjQAtx4rI37bs</string>
+    <string name="google_storage_bucket" translatable="false">trekking-app-bdc26.firebasestorage.app</string>
+    <string name="label_auto_share_sos">Auto-share on SOS</string>
+    <string name="label_checkin_reminders">Check-in Reminders</string>
+    <string name="label_current_location">Current Location</string>
+    <string name="label_emergency_numbers">Emergency Numbers</string>
+    <string name="label_live_tracking">Live Tracking</string>
+    <string name="label_quick_share">Quick Share</string>
+    <string name="label_safety_features">Safety Features</string>
+    <string name="project_id" translatable="false">trekking-app-bdc26</string>
+    <string name="text_auto_share_sos_desc">Automatically share location when SOS is activated</string>
+    <string name="text_checkin_desc">Get reminded to check in with your contacts</string>
+    <string name="text_getting_location">Getting your location...</string>
+    <string name="text_live_tracking_desc">Share your live location with trusted contacts</string>
+    <string name="title_ai_chat">AI Chat Bot</string>
+    <string name="title_data_viewer">Data Viewer</string>
+    <string name="title_location_sharing">Location Sharing</string>
+    <string name="title_map">India Trekking Map</string>
+    <string name="title_ml_insights">ML Insights</string>
+    <string name="title_safety_tips">Safety Tips</string>
+    <style name="Theme.Trekking" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/purple_700</item>
+    </style>
+    <style name="Theme.Trekking.Splash" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+</resources>

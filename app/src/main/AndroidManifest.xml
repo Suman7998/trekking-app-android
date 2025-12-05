@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:label="Trekking"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Trekking">
+
+        <activity
+            android:name="com.example.trekking.ui.SafetyTipsActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.trekking.ui.LocationSharingActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.trekking.ui.DataViewerActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.trekking.ui.ChatBotActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.trekking.ui.MLInsightsActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.trekking.ui.MapActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.trekking.ui.MainActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.trekking.ui.LoginActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.trekking.ui.SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Trekking.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyDa9ahawZedqYiMnPr7d-mWeLk4R7nzqV8" />
+
+    </application>
+</manifest>

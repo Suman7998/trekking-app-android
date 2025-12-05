@@ -1,0 +1,54 @@
+com.example.trekking.app-sqlite-2.4.0-0 C:\Users\suman\.gradle\caches\8.13\transforms\055a79ca29ac7dd22113922fa2c29557\transformed\sqlite-2.4.0\res
+com.example.trekking.app-jetified-credentials-1.2.0-rc01-1 C:\Users\suman\.gradle\caches\8.13\transforms\0d8a8b2d14bf4ddab06873a80278cf11\transformed\jetified-credentials-1.2.0-rc01\res
+com.example.trekking.app-jetified-play-services-maps-18.2.0-2 C:\Users\suman\.gradle\caches\8.13\transforms\0e3f8bdfe5008e90923515e9df704304\transformed\jetified-play-services-maps-18.2.0\res
+com.example.trekking.app-room-runtime-2.6.1-3 C:\Users\suman\.gradle\caches\8.13\transforms\18e108f6b8c96d30447b4fa5c01ae84d\transformed\room-runtime-2.6.1\res
+com.example.trekking.app-material-1.12.0-4 C:\Users\suman\.gradle\caches\8.13\transforms\1c24aba81856b2dac8a8c3705810795d\transformed\material-1.12.0\res
+com.example.trekking.app-browser-1.4.0-5 C:\Users\suman\.gradle\caches\8.13\transforms\1c6ce25e037252bfeb23cd1487464095\transformed\browser-1.4.0\res
+com.example.trekking.app-jetified-play-services-basement-18.3.0-6 C:\Users\suman\.gradle\caches\8.13\transforms\2259941cb8336c89adb0a79da03728c2\transformed\jetified-play-services-basement-18.3.0\res
+com.example.trekking.app-jetified-customview-poolingcontainer-1.0.0-7 C:\Users\suman\.gradle\caches\8.13\transforms\253c2f760d5449eff8f30726c5f5d8b9\transformed\jetified-customview-poolingcontainer-1.0.0\res
+com.example.trekking.app-jetified-lifecycle-viewmodel-savedstate-2.8.4-8 C:\Users\suman\.gradle\caches\8.13\transforms\273959c0e174c19d5bb6b262aeb3b13e\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.4\res
+com.example.trekking.app-drawerlayout-1.1.1-9 C:\Users\suman\.gradle\caches\8.13\transforms\2745e3f852b4b55d35d6824d497eccce\transformed\drawerlayout-1.1.1\res
+com.example.trekking.app-cardview-1.0.0-10 C:\Users\suman\.gradle\caches\8.13\transforms\2e866ebe54a464f816433a404330c7dc\transformed\cardview-1.0.0\res
+com.example.trekking.app-jetified-fragment-ktx-1.8.2-11 C:\Users\suman\.gradle\caches\8.13\transforms\39d4f03f68f730f5ace6cfb6e076bebd\transformed\jetified-fragment-ktx-1.8.2\res
+com.example.trekking.app-jetified-room-ktx-2.6.1-12 C:\Users\suman\.gradle\caches\8.13\transforms\3cb1fc83a3e9d81875c439e5df4996b0\transformed\jetified-room-ktx-2.6.1\res
+com.example.trekking.app-jetified-activity-ktx-1.8.1-13 C:\Users\suman\.gradle\caches\8.13\transforms\4084923556230b7c5cf8432614fad7c7\transformed\jetified-activity-ktx-1.8.1\res
+com.example.trekking.app-jetified-credentials-play-services-auth-1.2.0-rc01-14 C:\Users\suman\.gradle\caches\8.13\transforms\43d030814ea71a016f3a5fb0bd183530\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.example.trekking.app-constraintlayout-2.1.4-15 C:\Users\suman\.gradle\caches\8.13\transforms\4b8f9377393c8f1ee4fb7b7b182ff447\transformed\constraintlayout-2.1.4\res
+com.example.trekking.app-lifecycle-livedata-2.8.4-16 C:\Users\suman\.gradle\caches\8.13\transforms\4fe2c2710ea08808352d2dbbc5eb28de\transformed\lifecycle-livedata-2.8.4\res
+com.example.trekking.app-jetified-firebase-common-21.0.0-17 C:\Users\suman\.gradle\caches\8.13\transforms\5090b723186fbe600fbd292f0238bcfc\transformed\jetified-firebase-common-21.0.0\res
+com.example.trekking.app-core-runtime-2.2.0-18 C:\Users\suman\.gradle\caches\8.13\transforms\5282ba466ce7f92739bb8bf121ff312d\transformed\core-runtime-2.2.0\res
+com.example.trekking.app-jetified-profileinstaller-1.3.1-19 C:\Users\suman\.gradle\caches\8.13\transforms\5e84bb1fad96591db31450175f035ecc\transformed\jetified-profileinstaller-1.3.1\res
+com.example.trekking.app-jetified-lifecycle-livedata-core-ktx-2.8.4-20 C:\Users\suman\.gradle\caches\8.13\transforms\5f6b521ca03bc9827400811b8e788294\transformed\jetified-lifecycle-livedata-core-ktx-2.8.4\res
+com.example.trekking.app-jetified-lifecycle-viewmodel-ktx-2.8.4-21 C:\Users\suman\.gradle\caches\8.13\transforms\6cf6be70e731c775b71e307df39dca94\transformed\jetified-lifecycle-viewmodel-ktx-2.8.4\res
+com.example.trekking.app-fragment-1.8.2-22 C:\Users\suman\.gradle\caches\8.13\transforms\6e3b2c28aded62a6d727ac8d34d23d57\transformed\fragment-1.8.2\res
+com.example.trekking.app-lifecycle-livedata-core-2.8.4-23 C:\Users\suman\.gradle\caches\8.13\transforms\6ebba5fe83cce2de715285f42b38f95c\transformed\lifecycle-livedata-core-2.8.4\res
+com.example.trekking.app-jetified-startup-runtime-1.1.1-24 C:\Users\suman\.gradle\caches\8.13\transforms\71257d1020c48ec09d358cd43b4d78d3\transformed\jetified-startup-runtime-1.1.1\res
+com.example.trekking.app-jetified-viewpager2-1.1.0-beta02-25 C:\Users\suman\.gradle\caches\8.13\transforms\71e77c50d9375371956358e21512f378\transformed\jetified-viewpager2-1.1.0-beta02\res
+com.example.trekking.app-core-1.13.1-26 C:\Users\suman\.gradle\caches\8.13\transforms\7512455a62bab218ba8133920ca50156\transformed\core-1.13.1\res
+com.example.trekking.app-jetified-core-ktx-1.13.1-27 C:\Users\suman\.gradle\caches\8.13\transforms\75d302af28463c4064e91697b45b913e\transformed\jetified-core-ktx-1.13.1\res
+com.example.trekking.app-coordinatorlayout-1.1.0-28 C:\Users\suman\.gradle\caches\8.13\transforms\819bb3baba07c81084128f868c052907\transformed\coordinatorlayout-1.1.0\res
+com.example.trekking.app-jetified-lifecycle-runtime-ktx-release-29 C:\Users\suman\.gradle\caches\8.13\transforms\87ccfbc8ae485aadd77e040178b2a378\transformed\jetified-lifecycle-runtime-ktx-release\res
+com.example.trekking.app-jetified-savedstate-ktx-1.2.1-30 C:\Users\suman\.gradle\caches\8.13\transforms\9421955ff32f608b83da7984b0a549df\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.trekking.app-recyclerview-1.3.2-31 C:\Users\suman\.gradle\caches\8.13\transforms\a1017d06f39706317dee79dd10f15b93\transformed\recyclerview-1.3.2\res
+com.example.trekking.app-jetified-lifecycle-viewmodel-release-32 C:\Users\suman\.gradle\caches\8.13\transforms\a6b2c6bf83f49e7e849eb78742e407d7\transformed\jetified-lifecycle-viewmodel-release\res
+com.example.trekking.app-jetified-lifecycle-process-2.8.4-33 C:\Users\suman\.gradle\caches\8.13\transforms\ae2e45122f8cff5c79795e0c3b377b74\transformed\jetified-lifecycle-process-2.8.4\res
+com.example.trekking.app-jetified-activity-1.8.1-34 C:\Users\suman\.gradle\caches\8.13\transforms\b3ade0b4a5570e8eb2f54750b16237f0\transformed\jetified-activity-1.8.1\res
+com.example.trekking.app-jetified-appcompat-resources-1.7.0-35 C:\Users\suman\.gradle\caches\8.13\transforms\b583af3e324527b5c75c9acba477dc44\transformed\jetified-appcompat-resources-1.7.0\res
+com.example.trekking.app-jetified-emoji2-views-helper-1.3.0-36 C:\Users\suman\.gradle\caches\8.13\transforms\ba8d6429d57f8a02731e73461da9b09a\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.example.trekking.app-jetified-play-services-auth-20.7.0-37 C:\Users\suman\.gradle\caches\8.13\transforms\bfbdce76a74609493995f838222c31e2\transformed\jetified-play-services-auth-20.7.0\res
+com.example.trekking.app-jetified-lifecycle-runtime-release-38 C:\Users\suman\.gradle\caches\8.13\transforms\c84edce01fbc745f9dbf7380addce75c\transformed\jetified-lifecycle-runtime-release\res
+com.example.trekking.app-jetified-emoji2-1.3.0-39 C:\Users\suman\.gradle\caches\8.13\transforms\c962c3c0cd6ab4f95a2bbef734f9367d\transformed\jetified-emoji2-1.3.0\res
+com.example.trekking.app-jetified-annotation-experimental-1.4.0-40 C:\Users\suman\.gradle\caches\8.13\transforms\ce33363ce88b719ba73f8b0943aeddc8\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.trekking.app-jetified-play-services-base-18.0.1-41 C:\Users\suman\.gradle\caches\8.13\transforms\d94fe520858a4805e0e35ef3183095ea\transformed\jetified-play-services-base-18.0.1\res
+com.example.trekking.app-appcompat-1.7.0-42 C:\Users\suman\.gradle\caches\8.13\transforms\d95ff7489a7fc9a2dc7d0413238adee3\transformed\appcompat-1.7.0\res
+com.example.trekking.app-sqlite-framework-2.4.0-43 C:\Users\suman\.gradle\caches\8.13\transforms\e1985ae8df10109457be6170c135cbb7\transformed\sqlite-framework-2.4.0\res
+com.example.trekking.app-transition-1.5.0-44 C:\Users\suman\.gradle\caches\8.13\transforms\f9d7d471576b02cafb0613555b0eb358\transformed\transition-1.5.0\res
+com.example.trekking.app-jetified-savedstate-1.2.1-45 C:\Users\suman\.gradle\caches\8.13\transforms\febd93fdbb88d0dfffe9e1d813a9311a\transformed\jetified-savedstate-1.2.1\res
+com.example.trekking.app-pngs-46 C:\Users\suman\Desktop\Android App Development Projects\Trekking\app\build\generated\res\pngs\debug
+com.example.trekking.app-res-47 C:\Users\suman\Desktop\Android App Development Projects\Trekking\app\build\generated\res\processDebugGoogleServices
+com.example.trekking.app-resValues-48 C:\Users\suman\Desktop\Android App Development Projects\Trekking\app\build\generated\res\resValues\debug
+com.example.trekking.app-packageDebugResources-49 C:\Users\suman\Desktop\Android App Development Projects\Trekking\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.trekking.app-packageDebugResources-50 C:\Users\suman\Desktop\Android App Development Projects\Trekking\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.trekking.app-debug-51 C:\Users\suman\Desktop\Android App Development Projects\Trekking\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.trekking.app-debug-52 C:\Users\suman\Desktop\Android App Development Projects\Trekking\app\src\debug\res
+com.example.trekking.app-main-53 C:\Users\suman\Desktop\Android App Development Projects\Trekking\app\src\main\res

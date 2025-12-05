@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47795934391",
+    "project_id": "trekking-app-bdc26",
+    "storage_bucket": "trekking-app-bdc26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47795934391:android:fd01401a361ff10fa0e932",
+        "android_client_info": {
+          "package_name": "com.example.trekkingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwVo9UJ3Anc9YmY4aZLPTjQAtx4rI37bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

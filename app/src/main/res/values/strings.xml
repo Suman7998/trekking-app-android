@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trekking</string>
+    <!-- Titles -->
+    <string name="title_location_sharing">Location Sharing</string>
+    <string name="title_safety_tips">Safety Tips</string>
+    <!-- Location Sharing -->
+    <string name="label_current_location">Current Location</string>
+    <string name="text_getting_location">Getting your location...</string>
+    <string name="label_quick_share">Quick Share</string>
+    <string name="btn_share_location">Share Location</string>
+    <string name="btn_emergency_share">Emergency Share</string>
+    <string name="label_live_tracking">Live Tracking</string>
+    <string name="text_live_tracking_desc">Share your live location with trusted contacts</string>
+    <string name="label_safety_features">Safety Features</string>
+    <string name="label_auto_share_sos">Auto-share on SOS</string>
+    <string name="text_auto_share_sos_desc">Automatically share location when SOS is activated</string>
+    <string name="label_checkin_reminders">Check-in Reminders</string>
+    <string name="text_checkin_desc">Get reminded to check in with your contacts</string>
+    <!-- Safety Tips -->
+    <string name="btn_personal_safety">Personal Safety</string>
+    <string name="btn_online_safety">Online Safety</string>
+    <string name="btn_travel_safety">Travel Safety</string>
+    <string name="btn_trekking_safety">Trekking Safety</string>
+    <string name="label_emergency_numbers">Emergency Numbers</string>
+    <string name="emergency_medical">Medical Emergency: 108</string>
+    <string name="emergency_police">Police: 100</string>
+    <string name="emergency_fire">Fire: 101</string>
+    <string name="emergency_disaster">Disaster Management: 1078</string>
+    <!-- Main buttons -->
+    <string name="btn_location_sharing">Location Sharing</string>
+    <string name="btn_safety_tips">Safety Tips</string>
+    <string name="title_data_viewer">Data Viewer</string>
+    <string name="btn_data_viewer">Data Viewer</string>
+    <!-- AI Chat -->
+    <string name="title_ai_chat">AI Chat Bot</string>
+    <string name="btn_ai_chat">AI Chat Bot</string>
+    <string name="chat_welcome">Hello! I\'m your Trekking Assistant.</string>
+    <string name="chat_prompt_plan">Tell me about your trekking plan (dates, region, days, difficulty). I\'ll suggest routes.</string>
+    <string name="chat_suggestions_header">Here are 10 trekking suggestions:</string>
+    <!-- ML Insights -->
+    <string name="title_ml_insights">ML Insights</string>
+    <string name="btn_ml_insights">ML Insights</string>
+    <!-- Map -->
+    <string name="btn_map">Map</string>
+    <string name="title_map">India Trekking Map</string>
+</resources>

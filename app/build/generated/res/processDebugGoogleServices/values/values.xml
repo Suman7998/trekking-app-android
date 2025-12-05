@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">47795934391</string>
+    <string name="google_api_key" translatable="false">AIzaSyDwVo9UJ3Anc9YmY4aZLPTjQAtx4rI37bs</string>
+    <string name="google_app_id" translatable="false">1:47795934391:android:fd01401a361ff10fa0e932</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDwVo9UJ3Anc9YmY4aZLPTjQAtx4rI37bs</string>
+    <string name="google_storage_bucket" translatable="false">trekking-app-bdc26.firebasestorage.app</string>
+    <string name="project_id" translatable="false">trekking-app-bdc26</string>
+</resources>
