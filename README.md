@@ -5,7 +5,8 @@ A modern Android app that helps users explore trekking routes, waterfalls, and n
 
 ## 📸 Application Screenshots
 
-<p align="center">
+
+<p>
   <img src="assets/screenshots/app_start_symbol.png" alt="Start" width="200" style="margin:4px;" />
   <img src="assets/screenshots/registration.png" alt="Registration" width="200" style="margin:4px;" />
   <img src="assets/screenshots/ai_alerts.png" alt="AI Alerts" width="200" style="margin:4px;" />
@@ -15,7 +16,8 @@ A modern Android app that helps users explore trekking routes, waterfalls, and n
   <img src="assets/screenshots/trekking_list_data.png" alt="Trekking List" width="200" style="margin:4px;" />
 </p>
 
-<p align="center">
+
+<p>
   <img src="assets/screenshots/dashboard.png" alt="Dashboard" width="200" style="margin:4px;" />
   <img src="assets/screenshots/login.png" alt="Login" width="200" style="margin:4px;" />
   <img src="assets/screenshots/login_page.png" alt="Login Page" width="200" style="margin:4px;" />
@@ -25,12 +27,14 @@ A modern Android app that helps users explore trekking routes, waterfalls, and n
   <img src="assets/screenshots/maps_locations.png" alt="Maps Locations" width="200" style="margin:4px;" />
 </p>
 
-<p align="center">
+
+<p>
   <img src="assets/screenshots/firebase_users.png" alt="Firebase Users" width="200" style="margin:4px;" />
   <img src="assets/screenshots/firebase_authentication.png" alt="Firebase Authentication" width="200" style="margin:4px;" />
   <img src="assets/screenshots/firebase_project_details.png" alt="Firebase Project Details" width="200" style="margin:4px;" />
   <img src="assets/screenshots/firebase_cloud_messaging.png" alt="Firebase Cloud Messaging" width="200" style="margin:4px;" />
 </p>
+
 
 
 ## Key Facts
