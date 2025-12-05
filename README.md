@@ -31,6 +31,34 @@ A modern Android app that helps users explore trekking routes, waterfalls, and n
 |---|---|---|
 | <img src="assets/screenshots/firebase_authentication.png" width="200"/> | <img src="assets/screenshots/firebase_project_details.png" width="200"/> | <img src="assets/screenshots/firebase_cloud_messaging.png" width="200"/> |
 
+### Screenshots Gallery
+
+<p align="center">
+  <img src="assets/screenshots/app_start_symbol.png" alt="Start" width="200" style="margin:4px;" />
+  <img src="assets/screenshots/registration.png" alt="Registration" width="200" style="margin:4px;" />
+  <img src="assets/screenshots/ai_alerts.png" alt="AI Alerts" width="200" style="margin:4px;" />
+  <img src="assets/screenshots/ai_gemini_chatbot.png" alt="AI Chat" width="200" style="margin:4px;" />
+  <img src="assets/screenshots/ml_bert_model.png" alt="ML Insights" width="200" style="margin:4px;" />
+  <img src="assets/screenshots/waterfalls_list_data.png" alt="Waterfalls" width="200" style="margin:4px;" />
+  <img src="assets/screenshots/trekking_list_data.png" alt="Trekking List" width="200" style="margin:4px;" />
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/dashboard.png" alt="Dashboard" width="200" style="margin:4px;" />
+  <img src="assets/screenshots/login.png" alt="Login" width="200" style="margin:4px;" />
+  <img src="assets/screenshots/login_page.png" alt="Login Page" width="200" style="margin:4px;" />
+  <img src="assets/screenshots/location_sharing.png" alt="Location Sharing" width="200" style="margin:4px;" />
+  <img src="assets/screenshots/ai_notifications.png" alt="AI Notifications" width="200" style="margin:4px;" />
+  <img src="assets/screenshots/safety_tips.png" alt="Safety Tips" width="200" style="margin:4px;" />
+  <img src="assets/screenshots/maps_locations.png" alt="Maps Locations" width="200" style="margin:4px;" />
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/firebase_users.png" alt="Firebase Users" width="200" style="margin:4px;" />
+  <img src="assets/screenshots/firebase_authentication.png" alt="Firebase Authentication" width="200" style="margin:4px;" />
+  <img src="assets/screenshots/firebase_project_details.png" alt="Firebase Project Details" width="200" style="margin:4px;" />
+  <img src="assets/screenshots/firebase_cloud_messaging.png" alt="Firebase Cloud Messaging" width="200" style="margin:4px;" />
+</p>
 
 ## Key Facts
 - Package namespace: `com.example.trekking`
