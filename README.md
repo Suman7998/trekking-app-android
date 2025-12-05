@@ -8,12 +8,12 @@ A modern Android app that helps users explore trekking routes, waterfalls, and n
 ### 🧠 Core AI + Trekking Main Screens
 | App Start Screen | Registration | AI Alerts | AI Gemini Chatbot | ML BERT Model | Waterfalls List | Trekking List |
 |---|---|---|---|---|---|---|
-| <img src="assets/screenshots/app_start_symbol.png" width="200"/> | <img src="assets/screenshots/registration.png" width="200"/> | <img src="assets/screenshots/ai_alerts.png" width="200"/> | <img src="assets/screenshots/ai_gemini_chatbot.png" width="200"/> | <img src="assets/screenshots/ml_bert_model.png" width="200"/> | <img src="assets/screenshots/waterfalls_list_data.png" width="200"/> | <img src="assets/screenshots/trekking_list_data.png" width="200"/> |
+| <img src="assets/screenshots/app_start_symbol.png" width="100"/> | <img src="assets/screenshots/registration.png" width="100"/> | <img src="assets/screenshots/ai_alerts.png" width="100"/> | <img src="assets/screenshots/ai_gemini_chatbot.png" width="100"/> | <img src="assets/screenshots/ml_bert_model.png" width="100"/> | <img src="assets/screenshots/waterfalls_list_data.png" width="100"/> | <img src="assets/screenshots/trekking_list_data.png" width="100"/> |
 
 ### 🗺 Core UI, Navigation & Safety Panels
 | Dashboard | Login | Login Page | Location Sharing | AI Notifications | Safety Tips | Maps Locations |
 |---|---|---|---|---|---|---|
-| <img src="assets/screenshots/dashboard.png" width="200"/> | <img src="assets/screenshots/login.png" width="200"/> | <img src="assets/screenshots/login_page.png" width="200"/> | <img src="assets/screenshots/location_sharing.png" width="200"/> | <img src="assets/screenshots/ai_notifications.png" width="200"/> | <img src="assets/screenshots/safety_tips.png" width="200"/> | <img src="assets/screenshots/maps_locations.png" width="200"/> |
+| <img src="assets/screenshots/dashboard.png" width="100"/> | <img src="assets/screenshots/login.png" width="100"/> | <img src="assets/screenshots/login_page.png" width="100"/> | <img src="assets/screenshots/location_sharing.png" width="100"/> | <img src="assets/screenshots/ai_notifications.png" width="100"/> | <img src="assets/screenshots/safety_tips.png" width="100"/> | <img src="assets/screenshots/maps_locations.png" width="100"/> |
 
 ### ☁️ Firebase Backend & Cloud Modules
 | Firebase Users | Firebase Authentication | Firebase Project Details | Firebase Cloud Messaging |
