@@ -5,34 +5,6 @@ A modern Android app that helps users explore trekking routes, waterfalls, and n
 
 ## 📸 Application Screenshots
 
-## 📸 Application Screenshots
-
-| app_start_symbol | registration | ai_alerts |
-|---|---|---|
-| <img src="assets/screenshots/app_start_symbol.png" width="200"/> | <img src="assets/screenshots/registration.png" width="200"/> | <img src="assets/screenshots/ai_alerts.png" width="200"/> |
-
-| ai_gemini_chatbot | ml_bert_model | waterfalls_list_data |
-|---|---|---|
-| <img src="assets/screenshots/ai_gemini_chatbot.png" width="200"/> | <img src="assets/screenshots/ml_bert_model.png" width="200"/> | <img src="assets/screenshots/waterfalls_list_data.png" width="200"/> |
-
-| trekking_list_data | dashboard | login |
-|---|---|---|
-| <img src="assets/screenshots/trekking_list_data.png" width="200"/> | <img src="assets/screenshots/dashboard.png" width="200"/> | <img src="assets/screenshots/login.png" width="200"/> |
-
-| login_page | location_sharing | ai_notifications |
-|---|---|---|
-| <img src="assets/screenshots/login_page.png" width="200"/> | <img src="assets/screenshots/location_sharing.png" width="200"/> | <img src="assets/screenshots/ai_notifications.png" width="200"/> |
-
-| safety_tips | maps_locations | firebase_users |
-|---|---|---|
-| <img src="assets/screenshots/safety_tips.png" width="200"/> | <img src="assets/screenshots/maps_locations.png" width="200"/> | <img src="assets/screenshots/firebase_users.png" width="200"/> |
-
-| firebase_authentication | firebase_project_details | firebase_cloud_messaging |
-|---|---|---|
-| <img src="assets/screenshots/firebase_authentication.png" width="200"/> | <img src="assets/screenshots/firebase_project_details.png" width="200"/> | <img src="assets/screenshots/firebase_cloud_messaging.png" width="200"/> |
-
-### Screenshots Gallery
-
 <p align="center">
   <img src="assets/screenshots/app_start_symbol.png" alt="Start" width="200" style="margin:4px;" />
   <img src="assets/screenshots/registration.png" alt="Registration" width="200" style="margin:4px;" />
@@ -59,6 +31,7 @@ A modern Android app that helps users explore trekking routes, waterfalls, and n
   <img src="assets/screenshots/firebase_project_details.png" alt="Firebase Project Details" width="200" style="margin:4px;" />
   <img src="assets/screenshots/firebase_cloud_messaging.png" alt="Firebase Cloud Messaging" width="200" style="margin:4px;" />
 </p>
+
 
 ## Key Facts
 - Package namespace: `com.example.trekking`
