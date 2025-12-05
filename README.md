@@ -5,17 +5,31 @@ A modern Android app that helps users explore trekking routes, waterfalls, and n
 
 ## 📸 Application Screenshots
 
-| app_start_symbol | registration | ai_alerts | ai_gemini_chatbot | ml_bert_model | waterfalls_list_data |
-|---|---|---|---|---|---|
-| <img src="assets/screenshots/app_start_symbol.png" width="200"/> | <img src="assets/screenshots/registration.png" width="200"/> | <img src="assets/screenshots/ai_alerts.png" width="200"/> | <img src="assets/screenshots/ai_gemini_chatbot.png" width="200"/> | <img src="assets/screenshots/ml_bert_model.png" width="200"/> | <img src="assets/screenshots/waterfalls_list_data.png" width="200"/> |
+## 📸 Application Screenshots
 
-| trekking_list_data | dashboard | login | login_page | location_sharing | ai_notifications |
-|---|---|---|---|---|---|
-| <img src="assets/screenshots/trekking_list_data.png" width="200"/> | <img src="assets/screenshots/dashboard.png" width="200"/> | <img src="assets/screenshots/login.png" width="200"/> | <img src="assets/screenshots/login_page.png" width="200"/> | <img src="assets/screenshots/location_sharing.png" width="200"/> | <img src="assets/screenshots/ai_notifications.png" width="200"/> |
+| app_start_symbol | registration | ai_alerts |
+|---|---|---|
+| <img src="assets/screenshots/app_start_symbol.png" width="200"/> | <img src="assets/screenshots/registration.png" width="200"/> | <img src="assets/screenshots/ai_alerts.png" width="200"/> |
 
-| safety_tips | maps_locations | firebase_users | firebase_authentication | firebase_project_details | firebase_cloud_messaging |
-|---|---|---|---|---|---|
-| <img src="assets/screenshots/safety_tips.png" width="200"/> | <img src="assets/screenshots/maps_locations.png" width="200"/> | <img src="assets/screenshots/firebase_users.png" width="200"/> | <img src="assets/screenshots/firebase_authentication.png" width="200"/> | <img src="assets/screenshots/firebase_project_details.png" width="200"/> | <img src="assets/screenshots/firebase_cloud_messaging.png" width="200"/> |
+| ai_gemini_chatbot | ml_bert_model | waterfalls_list_data |
+|---|---|---|
+| <img src="assets/screenshots/ai_gemini_chatbot.png" width="200"/> | <img src="assets/screenshots/ml_bert_model.png" width="200"/> | <img src="assets/screenshots/waterfalls_list_data.png" width="200"/> |
+
+| trekking_list_data | dashboard | login |
+|---|---|---|
+| <img src="assets/screenshots/trekking_list_data.png" width="200"/> | <img src="assets/screenshots/dashboard.png" width="200"/> | <img src="assets/screenshots/login.png" width="200"/> |
+
+| login_page | location_sharing | ai_notifications |
+|---|---|---|
+| <img src="assets/screenshots/login_page.png" width="200"/> | <img src="assets/screenshots/location_sharing.png" width="200"/> | <img src="assets/screenshots/ai_notifications.png" width="200"/> |
+
+| safety_tips | maps_locations | firebase_users |
+|---|---|---|
+| <img src="assets/screenshots/safety_tips.png" width="200"/> | <img src="assets/screenshots/maps_locations.png" width="200"/> | <img src="assets/screenshots/firebase_users.png" width="200"/> |
+
+| firebase_authentication | firebase_project_details | firebase_cloud_messaging |
+|---|---|---|
+| <img src="assets/screenshots/firebase_authentication.png" width="200"/> | <img src="assets/screenshots/firebase_project_details.png" width="200"/> | <img src="assets/screenshots/firebase_cloud_messaging.png" width="200"/> |
 
 
 ## Key Facts
